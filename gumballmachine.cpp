@@ -3,7 +3,7 @@
 GumballMachine::GumballMachine(int QStringlocation)
 {
     count = 0;
-    location = getLocation();
+    location = getlocation();
     this->location = location;
 
 }
